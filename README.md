@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohan20001
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning data structure and algorithms
-- 💞️ I’m looking to collaborate on google
+- 💞️ I’m looking for mentor
 - 📫 reach me:
 - Email- puttamohan2001@gmail.com
 - Twitter- @MohanPuttaDev
